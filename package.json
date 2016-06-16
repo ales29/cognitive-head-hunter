@@ -4,7 +4,7 @@
 	"description": "A Cognitive based system to Help finding the best job opportunity for a candidate. Using Watson to read and extract cognitive information from both the candidates and the job openings we are able to provide a better match between them, not only analyzing keywords but rather understanding the concepts between the text. A user will be able to quickly find a tailored new opportunity, the HR department will speed up the triage of curriculum and improve the interview results sending only the right candidates to it and the company could speed up the process of creating and replacing positions.",
 	"homepage": "http://chh.mybluemix.net/",
 	"bugs": {
-		"url": "https://github.com/alanbraz/cognitive-head-hunter/issues"
+		"url": "https://github.com/ales29/cognitive-head-hunter/issues"
 	},
 	"license": "Apache-2.0",
 	"author": "IBM Corp.",
@@ -24,7 +24,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alanbraz/cognitive-head-hunter"
+		"url": "https://github.com/ales29/cognitive-head-hunter"
 	},
 	"scripts": {
 		"start": "node app.js"
